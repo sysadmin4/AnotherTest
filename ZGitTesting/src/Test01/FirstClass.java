@@ -10,5 +10,6 @@ public class FirstClass {
 		
 		System.out.println(item.nom);
 		System.out.println("bye");
+		System.out.println(" bye");
 	}
 }
